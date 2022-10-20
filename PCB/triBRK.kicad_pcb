@@ -83,7 +83,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "/home/vhateg/Downloads/")
+      (outputdirectory "/home/vhateg/Downloads/gerber_v0.1/")
     )
   )
 
@@ -1430,7 +1430,7 @@
   )
 
   (gr_rect (start 188.214 85.09) (end 127.350384 41.91) (layer "Edge.Cuts") (width 0.15) (fill none) (tstamp 60dea0bd-c574-48d3-b77c-3e40adc451e6))
-  (gr_text "triBRK\n\nthree button rythm keyboard\nby Vlad Hațegan" (at 157.48 61.976) (layer "B.SilkS") (tstamp ccc7757d-c223-40a6-832f-1d2a354c029e)
+  (gr_text "triBRK\n\nthree Button Rhythm Keyboard\nby Vlad Hațegan" (at 157.48 61.976) (layer "B.SilkS") (tstamp ccc7757d-c223-40a6-832f-1d2a354c029e)
     (effects (font (size 2 2) (thickness 0.3)) (justify mirror))
   )
   (gr_text "v0.1" (at 181.864 83.312) (layer "B.SilkS") (tstamp e3d0101f-3987-4b50-8888-c833abc549b8)
