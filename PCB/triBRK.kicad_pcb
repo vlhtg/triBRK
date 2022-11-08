@@ -266,7 +266,7 @@
       (effects (font (size 1 0.9) (thickness 0.15)))
       (tstamp e7621130-4125-43c5-b2ab-13db267884a4)
     )
-    (fp_text user "Y@@J" (at 2.921 -1.016 180 unlocked) (layer "Dwgs.User")
+    (fp_text user "Y@@J" (at 2.921 -1.016 180 unlocked) (layer "Dwgs.User") hide
       (effects (font (size 0.5 0.5) (thickness 0.1)))
       (tstamp af349a16-ba3b-484a-bd8f-92d9ef051479)
     )
