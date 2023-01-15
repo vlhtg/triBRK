@@ -1,5 +1,5 @@
 # triBRK
-tri-Button Rhythm Keyboard is a cheap and simple to produce input device for various rythm games, aiming to fill the niche of three button devices.
+<b>three Button Rhythm Keyboard</b> is a cheap and simple to produce input device for various rythm games, aiming to fill the niche of three button devices.
 
 This is my first project both in KiCAD and in STM32Cube.
 
