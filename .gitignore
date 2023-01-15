@@ -1,2 +1,10 @@
+# KiCAD
 PCB/triBRK-backups/
 PCB/triBRK.kicad_prl
+
+# STM32CubeIDE
+.metadata
+.settings
+[Rr]elease
+[Dd]ebug
+.launch
