@@ -5,7 +5,7 @@ This is my first project both in KiCAD and in STM32Cube.
 
 ### Hardware
 
-Built around a STM32 "blue-pill", it uses cheap commonly available parts and a 3D printed case. Unlike AVR-based alternatives this is even cheaper, as blue-pills are around 2-3 euros on Chinese websites. Initial designs had a STM32 chip and the auxilliary components placed directly on the board but compared to just soldering a pre-made board this reusulted in useless complexity, longer building times and surprisingly, higher costs per unit.
+Built around a STM32 "blue-pill", it uses cheap commonly available parts and a 3D printed case. Unlike AVR-based alternatives this is even cheaper, as blue-pills are around 2-3 euros on Chinese websites. Initial designs had a STM32 chip and the auxilliary components placed directly on the board, but compared to just soldering a pre-made board this just resulted in useless complexity, longer building times and surprisingly, higher costs per unit.
 
 ### Images
 
