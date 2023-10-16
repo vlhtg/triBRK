@@ -20,9 +20,9 @@ Built around a STM32 "blue-pill", it uses cheap commonly available parts and a 3
 Even though the project is functional, there are still a lot of things that are left to be done:
 
 * Implement an easy to use key programming method using the additional microswitches.
-* Add properly implemented RGB LED functionality.
+* Implement RGB LED functionality.
 * Create variant with hot-swappable switch connectors.
-* Make 3D printed case.
+* ~~Make 3D printed case.~~ DONE!
 
 ### How to make one
 
